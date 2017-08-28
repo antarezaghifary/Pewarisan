@@ -1,3 +1,5 @@
+package Latihan1;
+
 class Kedua extends Pertama {
     private int b = 8;
     protected void BacaSuper ()

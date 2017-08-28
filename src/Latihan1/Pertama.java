@@ -1,3 +1,4 @@
+package Latihan1;
 
 class Pertama {
     private int a = 10;

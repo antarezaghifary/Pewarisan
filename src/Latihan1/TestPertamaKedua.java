@@ -1,3 +1,5 @@
+package Latihan1;
+
 public class TestPertamaKedua {
     public static void main (String[]args){
         Kedua D2 = new Kedua();
